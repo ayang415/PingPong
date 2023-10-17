@@ -13,3 +13,4 @@ git pull
 
 haake ping
 yang pong
+haake ping
