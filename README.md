@@ -12,3 +12,4 @@ git config --global user.name "test"
 git pull
 
 haake ping
+yang pong
