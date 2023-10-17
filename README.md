@@ -10,3 +10,5 @@ git config --global user.email "email@email.com"
 git config --global user.name "test"
 
 git pull
+
+haake ping
