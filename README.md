@@ -26,3 +26,5 @@ Dr. Caughron says otherwise
 But she forgot my name
 
 Well that's unfortunate for your grade
+
+I ended Q1 with 88
