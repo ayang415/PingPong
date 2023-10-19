@@ -55,4 +55,8 @@ No, not really
 
 merge conflict Jackson
 
+<<<<<<< HEAD
 change
+=======
+start of conflict
+>>>>>>> 6c860a519e95cd2e871abb34e16b48e197f72a35
