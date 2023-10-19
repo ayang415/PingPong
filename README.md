@@ -54,3 +54,5 @@ No, not really
 :)
 
 merge conflict Jackson
+
+start of conflict
