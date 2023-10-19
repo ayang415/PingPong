@@ -53,4 +53,8 @@ No, not really
 
 :)
 
+<<<<<<< HEAD
 Corrupt
+=======
+merge conflict Jackson
+>>>>>>> 387f4413f02c2fd587082bd15b750133d6ba3033
